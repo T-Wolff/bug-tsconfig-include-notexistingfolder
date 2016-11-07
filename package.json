@@ -1,0 +1,16 @@
+{
+  "name": "bug-tsconfig-include-notexistingfolder",
+  "version": "0.1.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/T-Wolff/bug-tsconfig-include-notexistingfolder.git"
+  },
+  "author": "Till Wolff",
+  "dependencies": {
+    
+  },
+  "devDependencies": {
+    "typescript": "^2.0.6"
+  }
+}
